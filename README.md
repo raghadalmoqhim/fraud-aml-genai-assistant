@@ -60,3 +60,9 @@ AML Knowledge Retrieval
 AI Analyst Summary
     ↓
 Human Analyst Review
+
+
+
+## Application Preview
+
+![Fraud & AML GenAI Assistant Dashboard](assets/fraud-aml-dashboard.png)
