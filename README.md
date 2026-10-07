@@ -66,3 +66,7 @@ Human Analyst Review
 ## Application Preview
 
 ![Fraud & AML GenAI Assistant Dashboard](assets/fraud-aml-dashboard.png)
+
+## Application Preview
+
+![Fraud & AML GenAI Assistant Dashboard](assets/fraud-aml-dashboard.png)
