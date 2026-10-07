@@ -1,0 +1,22 @@
+AML Transaction Red Flags
+
+1. Unusual Transaction Patterns
+Transactions that are irregular, unusual, or inconsistent with expected customer behavior may require further review.
+
+2. Unusual Transaction Size or Frequency
+Transactions with an amount or frequency that does not have a clear or logical explanation may indicate elevated risk.
+
+3. Customer Behavior
+Activity that differs significantly from the customer's expected profile or normal transaction behavior may require investigation.
+
+4. Geographic Risk
+Transactions involving jurisdictions with higher money laundering or financial crime risk may require enhanced review.
+
+5. Source of Funds
+Unclear, inconsistent, or suspicious sources of funds or wealth may represent an AML risk indicator.
+
+6. Multiple Indicators
+A single red flag does not necessarily indicate money laundering. Multiple indicators, transaction context, and customer behavior should be considered together.
+
+7. Risk-Based Review
+Higher-risk activity should receive greater attention and investigation based on the institution's risk-based approach.

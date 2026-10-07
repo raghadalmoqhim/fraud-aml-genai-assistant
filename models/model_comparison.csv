@@ -1,0 +1,4 @@
+Model,PR_AUC
+Logistic Regression,0.6923283275024146
+Balanced Logistic Regression,0.6719353631354262
+Random Forest,0.7875723582314477
