@@ -65,5 +65,5 @@ AML Knowledge Retrieval
     ↓
 AI Analyst Summary
     ↓
-Human Analyst Review  ```text
+Human Analyst Review
 
