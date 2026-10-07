@@ -44,6 +44,12 @@ The application successfully analyzed more than 283,000 transactions in batch mo
 - Gemini API
 - Streamlit
 
+
+
+## Application Preview
+
+![Fraud & AML GenAI Assistant Dashboard](assets/fraud-aml-dashboard.png)
+
 ## Project Workflow
 
 ```text
@@ -59,13 +65,12 @@ AML Knowledge Retrieval
     ↓
 AI Analyst Summary
     ↓
-Human Analyst Review
+Human Analyst Review 
+text```
 
 
 
-## Application Preview
 
-![Fraud & AML GenAI Assistant Dashboard](assets/fraud-aml-dashboard.png)
 
 ## Application Preview
 
